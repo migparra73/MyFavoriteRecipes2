@@ -1,7 +1,7 @@
 Taco:
 
-1. Roti
-2. Tofu
+1. Naan
+2. Beans
 3. Onion
 4. Cashews
 5. Pina
