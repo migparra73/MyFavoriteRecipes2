@@ -1,8 +1,8 @@
 Taco:
 
-1. Tortilla (Corn)
-2. Protein (steak)
+1. Roti
+2. Tofu
 3. Onion
-4. Cheese
-5. Aguacate
-6. Salsa Verde
+4. Cashews
+5. Pina
+6. Garam masala
